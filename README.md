@@ -1,1 +1,1 @@
-# Car-number-detection
+# License-plate-detection
